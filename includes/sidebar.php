@@ -7,7 +7,7 @@
                                 <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                                 Dashboard
                             </a>
-                            <div class="sb-sidenav-menu-heading">Product Management</div>
+                            <div class="sb-sidenav-menu-heading">Books Management</div>
 
                             <!--Categories --->
                             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">
@@ -21,6 +21,7 @@
                                     <a class="nav-link" href="manage-categories.php">Manage</a>
                                 </nav>
                             </div>
+
 
 <!--- Sub-Categories --->
             <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#subcat" aria-expanded="false" aria-controls="subcat">
@@ -48,7 +49,15 @@
                                 </nav>
                             </div>
 
-
+<div class="sb-sidenav-menu-heading">Website Management</div>
+                            <a class="nav-link" href="aboutus.php">
+                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                About Us
+                            </a>
+                            <a class="nav-link" href="contactus.php">
+                                <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
+                                Contact Us
+                            </a>
 
                             <div class="sb-sidenav-menu-heading">Order Management</div>
                    <!--- Products --->
